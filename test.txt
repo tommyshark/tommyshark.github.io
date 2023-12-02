@@ -1,1 +1,2 @@
-""></iframe>${{<%[%'"}}%\.
+<div data-gb-custom-block data-tag="debug"></div>
+{% debug %}
